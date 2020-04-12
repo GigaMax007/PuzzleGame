@@ -1,3 +1,7 @@
+/**
+ * Создано Максимом Кишинским по лекциям Ирины Галкиной!
+ * Спасибо ей за это)))
+ */
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
